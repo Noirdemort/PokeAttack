@@ -1,4 +1,4 @@
-﻿# Target Package
+# Target Package
  
  1. Search for a pokemon and display information about it. From a url
  2. For each Pokemon, list its name, number, an image of it, and some abilities. Add option to view all data about it.
@@ -40,3 +40,10 @@ https://pokeapi.co/api/v2/pokemon/?offset=0&limit=20
 - Infinite scroll 
 - Search results
 - Build a view more details page
+
+
+# Experiment
+
+Just experimenting in F#
+
+Well, it isn't exactly suitable as CLI or desktop (as I mainly focus on Apple Platforms). Might be better for servers.
